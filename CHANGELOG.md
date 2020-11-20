@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.111
+## (2020-11-20)
+
+* Update bl [Alexis Svinartchouk]
+* Warn when the source drive has no partition table [Alexis Svinartchouk]
+* Update etcher-sdk to 5.1.5 [Alexis Svinartchouk]
+* Update typescript to 4.1.2 [Alexis Svinartchouk]
+* Use a different icon when no source drive is available [Alexis Svinartchouk]
+* Update etcher-sdk to 5.1.3 [Alexis Svinartchouk]
+* Prevent opening more than one file selector [Alexis Svinartchouk]
+* Allow selecting a locked SD card as the source drive [Alexis Svinartchouk]
+* Removed disableExplicitDriveSelection setting, use autoSelectAllDrives instead [Alexis Svinartchouk]
+* Update etcher-sdk to 5.1.2 [Alexis Svinartchouk]
+* Add successBannerURL setting [Alexis Svinartchouk]
+* Add drivesOrder setting [Alexis Svinartchouk]
+* Remove "Validate write on success" setting. Validation is always enabled, press the "skip" button to skip it. [Alexis Svinartchouk]
+* Update electron to v9.3.3 [Alexis Svinartchouk]
+* Update etcher-sdk to 5.1.1, use WASM ext2fs module [Alexis Svinartchouk]
+
 # v1.5.110
 ## (2020-11-04)
 
